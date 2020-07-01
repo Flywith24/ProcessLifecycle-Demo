@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProcessLifecycle-Demo</string>
+    <string name="click">点击跳转</string>
+</resources>
